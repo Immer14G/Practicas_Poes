@@ -1,0 +1,12 @@
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\calculadora.csproj.AssemblyReference.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\bin\Debug\net6.0\calculadora.deps.json
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\bin\Debug\net6.0\calculadora.dll
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\bin\Debug\net6.0\calculadora.pdb
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\calculadora.dll
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\calculadora.pdb
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\calculadora\obj\Debug\net6.0\ref\calculadora.dll
