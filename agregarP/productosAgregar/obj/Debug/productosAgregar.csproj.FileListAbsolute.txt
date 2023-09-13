@@ -1,0 +1,11 @@
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.csproj.AssemblyReference.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.csproj.SuggestedBindingRedirects.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.Form1.resources
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.Properties.Resources.resources
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.csproj.GenerateResource.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\bin\Debug\productosAgregar.exe.config
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\bin\Debug\productosAgregar.exe
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\bin\Debug\productosAgregar.pdb
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.exe
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\Practicas2023\Practica 5 Ejercicio Tarea\agregarP\productosAgregar\obj\Debug\productosAgregar.pdb
